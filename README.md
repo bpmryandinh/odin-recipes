@@ -8,3 +8,4 @@ Web Dev Odin Project
 # Legend
 - Recipe files have the full name of the dish spelt out
 - Ingredient files use the abbreviated forms of each 
+    - example: CRIngredients.html has the list of ingredients 
