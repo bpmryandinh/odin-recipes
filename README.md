@@ -20,7 +20,7 @@ Web Project Odin Project
 - I was able to create a bare bones website with only html.
 - I discovered recipes that I will probably not use in the future unfortunately.
 
-## Browser History 
+## Browser Trials 
 <ul>
     <li><strong>FireFox:</strong> The site runs smoothly on there. No issues</li>
     <li><strong>Microsoft Edge:</strong> The site runs smoothly on there. No issues. Had to copy and paste the url of the site to there, since my default browser was set to FireFox.</li>
