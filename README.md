@@ -27,3 +27,4 @@ Web Project Odin Project
 </ul>
 
 ## <a href = "https://bpmryandinh.github.io/odin-recipes/" > Live Demo</a>
+- Click "Live Demo" to see the website
