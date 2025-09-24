@@ -1,0 +1,22 @@
+/* For BBHIngredients.html */
+h1, h3{
+    text-align: center; 
+    color: rgb(66, 9, 9);
+    
+}
+
+.backgroundColor{
+    background-color: rgb(176, 81, 81);
+}
+
+a:link{
+    color: rgb(8, 8, 167);
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: red;
+}

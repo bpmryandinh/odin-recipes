@@ -1,11 +1,25 @@
+/* For index.html */
 h1{
     color: purple;
+}
+
+body{
+    text-align: center;
 }
 
 .backgroundColor{
     background-color: rgb(131, 167, 240);
 }
 
+a:link{
+    color: rgb(8, 8, 167);
+}
+
+a:visited{
+    color: purple;
+}
+
 a:hover{
     color: red;
 }
+
