@@ -1,7 +1,11 @@
 h1{
-    color: rgb(14, 13, 110);
+    color: purple;
 }
 
 .backgroundColor{
     background-color: rgb(131, 167, 240);
+}
+
+a:hover{
+    color: red;
 }
