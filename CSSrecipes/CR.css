@@ -5,27 +5,32 @@ h1{
     font-size: 50px;
 }
 
-h3{
+h2{
     text-align: center; 
-    color: rgb(66, 9, 9);
+    color: rgb(83, 20, 20);
     font-size: 35px;
 }
 
-li{
+ol, ul, .specificA{
     font-size: 25px;
 }
 
+li{
+    margin-bottom: 10px;
+}
+
 img{
+    align-items: center;
     height: 300px;
     width: 400px;
 }
 
 .backgroundColor{
-    background-color: rgb(176, 81, 81);
+    background-color: rgba(165, 42, 42, 0.338);
 }
 
 a:link{
-    color: rgb(8, 8, 167);
+    color: brown;
 }
 
 a:visited{
