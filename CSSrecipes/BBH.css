@@ -1,7 +1,23 @@
 /* For BBH related css files */
-h1, h3{
+h1{
     text-align: center; 
     color: rgb(66, 9, 9);
+    font-size: 50px;
+}
+
+h3{
+    text-align: center; 
+    color: rgb(66, 9, 9);
+    font-size: 35px;
+}
+
+li{
+    font-size: 25px;
+}
+
+img{
+    height: 300px;
+    width: 400px;
 }
 
 .backgroundColor{
