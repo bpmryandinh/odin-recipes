@@ -5,18 +5,19 @@ h1{
     font-size: 50px;
 }
 
-h3{
+h2, h3{
     text-align: center; 
     color: rgb(66, 9, 9);
     font-size: 35px;
 }
 
-li{
+ol, ul, .specificA {
     font-size: 25px;
     margin-bottom: 10px;
 }
 
 img{
+    border-radius: 15px;
     height: 300px;
     width: 400px;
 }
